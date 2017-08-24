@@ -1,0 +1,7 @@
+#Tue Aug 22 12:51:57 ICT 2017
+base.0=D\:\\106\\sps baru\\learning app\\Bismillah\\skripsi_LaTahla\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e3a828cf1ae204470deb2c264e7f4e6f089be783
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\106\\sps baru\\learning app\\Bismillah\\skripsi_LaTahla\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ad3f17cfbc83128815759c30e98cfb398b297fd0\\classes.dex
+base.1=D\:\\106\\sps baru\\learning app\\Bismillah\\skripsi_LaTahla\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ad3f17cfbc83128815759c30e98cfb398b297fd0
+file.0=D\:\\106\\sps baru\\learning app\\Bismillah\\skripsi_LaTahla\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e3a828cf1ae204470deb2c264e7f4e6f089be783\\classes.dex

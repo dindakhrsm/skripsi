@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\ACER\.android\build-cache\9636ea73bdf98714678aa0ad8895b8d637b7d88e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\106\sps baru\learning app\Bismillah\skripsi_LaTahla\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1848392cd98b3817bbc66396fd82d82393436ce8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ACER\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\106\sps baru\learning app\Bismillah\skripsi_LaTahla\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_1db8f2251c24da5f6dc9b011ff2f845ec4ff2450\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ACER\.android\build-cache\ace24d3b95485e1815acf7e9259af450ccc905fe\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\106\sps baru\learning app\Bismillah\skripsi_LaTahla\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c304ae7a9684235d8111d7f93c60d542bfe5bdd2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ACER\.android\build-cache\4464b89309d4405e1e2590545cbdc2bea58d1ea5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\106\sps baru\learning app\Bismillah\skripsi_LaTahla\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b28ffa916d6af454313e0e039055f1bcb79ea66a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\106\sps baru\learning app\Bismillah\skripsi_LaTahla\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\106\sps baru\learning app\Bismillah\skripsi_LaTahla\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e3a828cf1ae204470deb2c264e7f4e6f089be783\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ACER\.android\build-cache\205f599ba1a6e6f866379589286c8b2bedfce46a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="D:\106\sps baru\learning app\Bismillah\skripsi_LaTahla\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a376d386692ad08ba6488a493f70816e95da1f42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ACER\.android\build-cache\b5232967697d585e1d7631b551ef5a11464cdf8b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="803c4c913beac8f7980d680c725a40835d1d7c77">
+        <dex dex="D:\106\sps baru\learning app\Bismillah\skripsi_LaTahla\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7b2977bcc2700d7ad805afae12051a2b38081f20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ACER\.android\build-cache\9de1b32efa4135a4d669e81acb1da3b31b10f085\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\106\sps baru\learning app\Bismillah\skripsi_LaTahla\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_74898cea0425235edf5be44b1340ad5076359b74\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ACER\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.15\9093a362d18c5f81f58e49d86dece57d9b6e1cb7\library-1.0.15.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9093a362d18c5f81f58e49d86dece57d9b6e1cb7">
+        <dex dex="D:\106\sps baru\learning app\Bismillah\skripsi_LaTahla\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-1.0.15_2ec5182c1c49880034b8cb0d388538cf957f8420\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ACER\.android\build-cache\4464b89309d4405e1e2590545cbdc2bea58d1ea5\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\106\sps baru\learning app\Bismillah\skripsi_LaTahla\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_00be8757dbc803c68729af42327414e8ac4c6453\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\106\sps baru\learning app\Bismillah\skripsi_LaTahla\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7f19599ac0b6b64076049ca65d052f319e9a10f0">
+        <dex dex="D:\106\sps baru\learning app\Bismillah\skripsi_LaTahla\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ad3f17cfbc83128815759c30e98cfb398b297fd0\classes.dex" />
+    </item>
+
+</items>
