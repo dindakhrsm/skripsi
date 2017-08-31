@@ -3,12 +3,48 @@
 
     <item
         is-multidex="true"
+        jar="D:\107\skripsi_LaTahla\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="20ea84cc8980c96de2860616a8c418b116e33a97">
+        <dex dex="D:\107\skripsi_LaTahla\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_f971debbf8d34d8b04e6e727c70a828e0ffc1336\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\ACER\.android\build-cache\9636ea73bdf98714678aa0ad8895b8d637b7d88e\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
         <dex dex="D:\106\sps baru\learning app\Bismillah\skripsi_LaTahla\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1848392cd98b3817bbc66396fd82d82393436ce8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\106\sps baru\learning app\Bismillah\skripsi_LaTahla\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\106\sps baru\learning app\Bismillah\skripsi_LaTahla\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e3a828cf1ae204470deb2c264e7f4e6f089be783\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ACER\.android\build-cache\205f599ba1a6e6f866379589286c8b2bedfce46a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="D:\106\sps baru\learning app\Bismillah\skripsi_LaTahla\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a376d386692ad08ba6488a493f70816e95da1f42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\106\sps baru\learning app\Bismillah\skripsi_LaTahla\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7f19599ac0b6b64076049ca65d052f319e9a10f0">
+        <dex dex="D:\106\sps baru\learning app\Bismillah\skripsi_LaTahla\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ad3f17cfbc83128815759c30e98cfb398b297fd0\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -39,30 +75,21 @@
     </item>
     <item
         is-multidex="true"
-        jar="D:\106\sps baru\learning app\Bismillah\skripsi_LaTahla\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="D:\106\sps baru\learning app\Bismillah\skripsi_LaTahla\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e3a828cf1ae204470deb2c264e7f4e6f089be783\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\ACER\.android\build-cache\205f599ba1a6e6f866379589286c8b2bedfce46a\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
-        <dex dex="D:\106\sps baru\learning app\Bismillah\skripsi_LaTahla\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a376d386692ad08ba6488a493f70816e95da1f42\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\ACER\.android\build-cache\b5232967697d585e1d7631b551ef5a11464cdf8b\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="803c4c913beac8f7980d680c725a40835d1d7c77">
         <dex dex="D:\106\sps baru\learning app\Bismillah\skripsi_LaTahla\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7b2977bcc2700d7ad805afae12051a2b38081f20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\107\skripsi_LaTahla\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\107\skripsi_LaTahla\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_37ab7420d56800988cbb544a4e3972c840571ebf\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -84,21 +111,21 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\ACER\.android\build-cache\7794d74eaa5f7c20ab670b3031757827530d875c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="D:\107\skripsi_LaTahla\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_197c2c68303e9c8e8b62724bf0ff6aad7554c89f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\ACER\.android\build-cache\4464b89309d4405e1e2590545cbdc2bea58d1ea5\output\jars\libs\internal_impl-23.4.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
         <dex dex="D:\106\sps baru\learning app\Bismillah\skripsi_LaTahla\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_00be8757dbc803c68729af42327414e8ac4c6453\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\106\sps baru\learning app\Bismillah\skripsi_LaTahla\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="7f19599ac0b6b64076049ca65d052f319e9a10f0">
-        <dex dex="D:\106\sps baru\learning app\Bismillah\skripsi_LaTahla\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ad3f17cfbc83128815759c30e98cfb398b297fd0\classes.dex" />
     </item>
 
 </items>

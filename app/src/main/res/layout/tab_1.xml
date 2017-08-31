@@ -1,18 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <TextView
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/makhraj_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textAppearance="?android:attr/textAppearanceMedium"
-        android:text="Tab Materi Tahsin"
-        android:textSize="40dp"
-        android:textStyle="bold"
-        android:id="@+id/textView"
-        android:layout_centerVertical="true"
-        android:textColor="@color/tabsScrollColor"
-        android:layout_centerHorizontal="true" />
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="200dp"
+        android:layout_marginTop="118dp"
+        android:adjustViewBounds="false"
+        android:clickable="true"
+        android:paddingEnd="143dp"
+        android:paddingLeft="164dp"
+        android:paddingRight="143dp"
+        android:paddingStart="164dp"
+        android:scaleType="center"
+        app:elevation="8dp"
+        app:fabSize="normal"
+        app:srcCompat="@drawable/makhrajv2_button" />
 
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/ghunnah_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:paddingEnd="143dp"
+        android:paddingLeft="164dp"
+        android:paddingRight="143dp"
+        android:paddingStart="164dp"
+        android:scaleType="center"
+        app:fabSize="normal"
+        app:srcCompat="@drawable/ghunnah_button"
+        tools:ignore="RelativeOverlap"
+        android:layout_centerVertical="true"
+        android:layout_toLeftOf="@+id/makhraj_button"
+        android:layout_toStartOf="@+id/makhraj_button" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/mad_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        app:fabSize="normal"
+        android:scaleType="center"
+        app:srcCompat="@drawable/mad_button"
+        android:paddingEnd="143dp"
+        android:paddingLeft="164dp"
+        android:paddingRight="143dp"
+        android:paddingStart="164dp"
+        android:layout_marginLeft="13dp"
+        android:layout_marginStart="13dp"
+        android:layout_alignTop="@+id/ghunnah_button"
+        android:layout_toRightOf="@+id/makhraj_button"
+        android:layout_toEndOf="@+id/makhraj_button" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/gharib_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="19dp"
+        android:clickable="true"
+        app:fabSize="normal"
+        android:scaleType="center"
+        app:srcCompat="@drawable/gharib_button"
+        tools:ignore="RtlHardcoded"
+        android:layout_below="@+id/mad_button"
+        android:layout_alignLeft="@+id/makhraj_button"
+        android:layout_alignStart="@+id/makhraj_button" />
 </RelativeLayout>

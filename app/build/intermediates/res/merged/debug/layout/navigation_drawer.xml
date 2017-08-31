@@ -66,12 +66,10 @@
                 <TextView
                     android:id="@+id/navigation_drawer_account_information_display_name"
                     style="@style/NavDrawerAccountInfoText"
-                    android:layout_alignEnd="@+id/navigation_drawer_user_account_picture_profile"
-                    android:layout_alignRight="@+id/navigation_drawer_user_account_picture_profile"
-                    android:layout_below="@+id/navigation_drawer_user_account_picture_profile"
-                    android:layout_marginTop="15dp"
                     android:text="@string/tools_text_account_information_username"
-                    tools:fontFamily="sans-serif-medium" />
+                    tools:fontFamily="sans-serif-medium"
+                    android:layout_below="@+id/navigation_drawer_user_account_picture_profile"
+                    android:layout_centerHorizontal="true" />
 
             </RelativeLayout>
 
