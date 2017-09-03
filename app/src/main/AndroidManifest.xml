@@ -21,7 +21,6 @@
             </intent-filter>
         </activity>
 
-
         <activity
             android:name="dinda.skripsi.latahla.MainActivity"
             android:screenOrientation="portrait"
@@ -30,6 +29,16 @@
                 <action android:name="android.intent.action.MAIN" />
             </intent-filter>
         </activity>
+
+        <activity android:name="dinda.skripsi.latahla.ListMakhrajActivity"
+            android:screenOrientation="portrait"
+            android:label="@string/makhraj"
+            android:parentActivityName="dinda.skripsi.latahla.MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="dinda.skripsi.latahla.MainActivity"/>
+        </activity>
+
     </application>
 
 </manifest>

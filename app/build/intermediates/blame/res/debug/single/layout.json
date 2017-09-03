@@ -104,6 +104,10 @@
         "source": "C:\\Users\\ACER\\.android\\build-cache\\9636ea73bdf98714678aa0ad8895b8d637b7d88e\\output\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
+        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\layout\\daftar_makhraj.xml",
+        "source": "D:\\107\\skripsi_LaTahla\\app\\src\\main\\res\\layout\\daftar_makhraj.xml"
+    },
+    {
         "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
         "source": "C:\\Users\\ACER\\.android\\build-cache\\9636ea73bdf98714678aa0ad8895b8d637b7d88e\\output\\res\\layout\\abc_action_mode_bar.xml"
     },
@@ -214,6 +218,10 @@
     {
         "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
         "source": "C:\\Users\\ACER\\.android\\build-cache\\7794d74eaa5f7c20ab670b3031757827530d875c\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_list.xml",
+        "source": "D:\\107\\skripsi_LaTahla\\app\\src\\main\\res\\layout\\item_list.xml"
     },
     {
         "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",

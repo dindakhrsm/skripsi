@@ -1,47 +1,43 @@
 [
     {
-        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
-        "source": "C:\\Users\\ACER\\.android\\build-cache\\9636ea73bdf98714678aa0ad8895b8d637b7d88e\\output\\res\\drawable\\abc_btn_colored_material.xml"
+        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dzal.png",
+        "source": "D:\\107\\skripsi_LaTahla\\app\\src\\main\\res\\drawable\\dzal.png"
+    },
+    {
+        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ba.png",
+        "source": "D:\\107\\skripsi_LaTahla\\app\\src\\main\\res\\drawable\\ba.png"
     },
     {
         "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
         "source": "C:\\Users\\ACER\\.android\\build-cache\\9636ea73bdf98714678aa0ad8895b8d637b7d88e\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "C:\\Users\\ACER\\.android\\build-cache\\9636ea73bdf98714678aa0ad8895b8d637b7d88e\\output\\res\\drawable\\abc_btn_borderless_material.xml"
-    },
-    {
         "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ghunnah_button.png",
         "source": "D:\\107\\skripsi_LaTahla\\app\\src\\main\\res\\drawable\\ghunnah_button.png"
     },
     {
-        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "C:\\Users\\ACER\\.android\\build-cache\\9636ea73bdf98714678aa0ad8895b8d637b7d88e\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\ACER\\.android\\build-cache\\9636ea73bdf98714678aa0ad8895b8d637b7d88e\\output\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
-        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "C:\\Users\\ACER\\.android\\build-cache\\9636ea73bdf98714678aa0ad8895b8d637b7d88e\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tsa.png",
+        "source": "D:\\107\\skripsi_LaTahla\\app\\src\\main\\res\\drawable\\tsa.png"
     },
     {
-        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mad_button.png",
-        "source": "D:\\107\\skripsi_LaTahla\\app\\src\\main\\res\\drawable\\mad_button.png"
+        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mim.png",
+        "source": "D:\\107\\skripsi_LaTahla\\app\\src\\main\\res\\drawable\\mim.png"
     },
     {
         "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
         "source": "C:\\Users\\ACER\\.android\\build-cache\\9636ea73bdf98714678aa0ad8895b8d637b7d88e\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
     },
     {
-        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "C:\\Users\\ACER\\.android\\build-cache\\9636ea73bdf98714678aa0ad8895b8d637b7d88e\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kho.png",
+        "source": "D:\\107\\skripsi_LaTahla\\app\\src\\main\\res\\drawable\\kho.png"
     },
     {
-        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "C:\\Users\\ACER\\.android\\build-cache\\9636ea73bdf98714678aa0ad8895b8d637b7d88e\\output\\res\\drawable\\abc_textfield_search_material.xml"
-    },
-    {
-        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\makhrajv2_button.png",
-        "source": "D:\\107\\skripsi_LaTahla\\app\\src\\main\\res\\drawable\\makhrajv2_button.png"
+        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jim.png",
+        "source": "D:\\107\\skripsi_LaTahla\\app\\src\\main\\res\\drawable\\jim.png"
     },
     {
         "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
@@ -56,72 +52,56 @@
         "source": "C:\\Users\\ACER\\.android\\build-cache\\9636ea73bdf98714678aa0ad8895b8d637b7d88e\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "C:\\Users\\ACER\\.android\\build-cache\\9636ea73bdf98714678aa0ad8895b8d637b7d88e\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
-    },
-    {
-        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "C:\\Users\\ACER\\.android\\build-cache\\9636ea73bdf98714678aa0ad8895b8d637b7d88e\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
-    },
-    {
         "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
         "source": "C:\\Users\\ACER\\.android\\build-cache\\9636ea73bdf98714678aa0ad8895b8d637b7d88e\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
     },
     {
-        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "C:\\Users\\ACER\\.android\\build-cache\\9636ea73bdf98714678aa0ad8895b8d637b7d88e\\output\\res\\drawable\\abc_btn_radio_material.xml"
+        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ro.png",
+        "source": "D:\\107\\skripsi_LaTahla\\app\\src\\main\\res\\drawable\\ro.png"
     },
     {
-        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash.jpg",
-        "source": "D:\\107\\skripsi_LaTahla\\app\\src\\main\\res\\drawable\\splash.jpg"
+        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ha.png",
+        "source": "D:\\107\\skripsi_LaTahla\\app\\src\\main\\res\\drawable\\ha.png"
     },
     {
-        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "C:\\Users\\ACER\\.android\\build-cache\\9636ea73bdf98714678aa0ad8895b8d637b7d88e\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nun.png",
+        "source": "D:\\107\\skripsi_LaTahla\\app\\src\\main\\res\\drawable\\nun.png"
     },
     {
-        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "C:\\Users\\ACER\\.android\\build-cache\\9636ea73bdf98714678aa0ad8895b8d637b7d88e\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\zai.png",
+        "source": "D:\\107\\skripsi_LaTahla\\app\\src\\main\\res\\drawable\\zai.png"
     },
     {
-        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gharib_button.png",
-        "source": "D:\\107\\skripsi_LaTahla\\app\\src\\main\\res\\drawable\\gharib_button.png"
+        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\habesar.png",
+        "source": "D:\\107\\skripsi_LaTahla\\app\\src\\main\\res\\drawable\\habesar.png"
     },
     {
-        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
-        "source": "C:\\Users\\ACER\\.android\\build-cache\\9636ea73bdf98714678aa0ad8895b8d637b7d88e\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ya.png",
+        "source": "D:\\107\\skripsi_LaTahla\\app\\src\\main\\res\\drawable\\ya.png"
     },
     {
         "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
         "source": "C:\\Users\\ACER\\.android\\build-cache\\9636ea73bdf98714678aa0ad8895b8d637b7d88e\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logomini.png",
-        "source": "D:\\107\\skripsi_LaTahla\\app\\src\\main\\res\\drawable\\logomini.png"
+        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\zho.png",
+        "source": "D:\\107\\skripsi_LaTahla\\app\\src\\main\\res\\drawable\\zho.png"
     },
     {
-        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logomini_v2.png",
-        "source": "D:\\107\\skripsi_LaTahla\\app\\src\\main\\res\\drawable\\logomini_v2.png"
+        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tho.png",
+        "source": "D:\\107\\skripsi_LaTahla\\app\\src\\main\\res\\drawable\\tho.png"
     },
     {
         "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
         "source": "C:\\Users\\ACER\\.android\\build-cache\\9636ea73bdf98714678aa0ad8895b8d637b7d88e\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "C:\\Users\\ACER\\.android\\build-cache\\9636ea73bdf98714678aa0ad8895b8d637b7d88e\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
-    },
-    {
-        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "C:\\Users\\ACER\\.android\\build-cache\\9636ea73bdf98714678aa0ad8895b8d637b7d88e\\output\\res\\drawable\\abc_edit_text_material.xml"
+        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logomini_v2.png",
+        "source": "D:\\107\\skripsi_LaTahla\\app\\src\\main\\res\\drawable\\logomini_v2.png"
     },
     {
         "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
         "source": "C:\\Users\\ACER\\.android\\build-cache\\9636ea73bdf98714678aa0ad8895b8d637b7d88e\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
-    },
-    {
-        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "C:\\Users\\ACER\\.android\\build-cache\\9636ea73bdf98714678aa0ad8895b8d637b7d88e\\output\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
         "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nav_drawer_row_item_background.xml",
@@ -136,6 +116,10 @@
         "source": "C:\\Users\\ACER\\.android\\build-cache\\7794d74eaa5f7c20ab670b3031757827530d875c\\output\\res\\drawable\\design_snackbar_background.xml"
     },
     {
+        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sin.png",
+        "source": "D:\\107\\skripsi_LaTahla\\app\\src\\main\\res\\drawable\\sin.png"
+    },
+    {
         "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
         "source": "C:\\Users\\ACER\\.android\\build-cache\\9636ea73bdf98714678aa0ad8895b8d637b7d88e\\output\\res\\drawable\\abc_switch_thumb_material.xml"
     },
@@ -144,7 +128,135 @@
         "source": "D:\\107\\skripsi_LaTahla\\app\\src\\main\\res\\drawable\\makhraj_button.png"
     },
     {
+        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splashv2.png",
+        "source": "D:\\107\\skripsi_LaTahla\\app\\src\\main\\res\\drawable\\splashv2.png"
+    },
+    {
         "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
         "source": "C:\\Users\\ACER\\.android\\build-cache\\9636ea73bdf98714678aa0ad8895b8d637b7d88e\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ain.png",
+        "source": "D:\\107\\skripsi_LaTahla\\app\\src\\main\\res\\drawable\\ain.png"
+    },
+    {
+        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ghoin.png",
+        "source": "D:\\107\\skripsi_LaTahla\\app\\src\\main\\res\\drawable\\ghoin.png"
+    },
+    {
+        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kaf.png",
+        "source": "D:\\107\\skripsi_LaTahla\\app\\src\\main\\res\\drawable\\kaf.png"
+    },
+    {
+        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\ACER\\.android\\build-cache\\9636ea73bdf98714678aa0ad8895b8d637b7d88e\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alif.png",
+        "source": "D:\\107\\skripsi_LaTahla\\app\\src\\main\\res\\drawable\\alif.png"
+    },
+    {
+        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\ACER\\.android\\build-cache\\9636ea73bdf98714678aa0ad8895b8d637b7d88e\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\ACER\\.android\\build-cache\\9636ea73bdf98714678aa0ad8895b8d637b7d88e\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dhod.png",
+        "source": "D:\\107\\skripsi_LaTahla\\app\\src\\main\\res\\drawable\\dhod.png"
+    },
+    {
+        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mad_button.png",
+        "source": "D:\\107\\skripsi_LaTahla\\app\\src\\main\\res\\drawable\\mad_button.png"
+    },
+    {
+        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\ACER\\.android\\build-cache\\9636ea73bdf98714678aa0ad8895b8d637b7d88e\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\ACER\\.android\\build-cache\\9636ea73bdf98714678aa0ad8895b8d637b7d88e\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\makhrajv2_button.png",
+        "source": "D:\\107\\skripsi_LaTahla\\app\\src\\main\\res\\drawable\\makhrajv2_button.png"
+    },
+    {
+        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\ACER\\.android\\build-cache\\9636ea73bdf98714678aa0ad8895b8d637b7d88e\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\ACER\\.android\\build-cache\\9636ea73bdf98714678aa0ad8895b8d637b7d88e\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\ACER\\.android\\build-cache\\9636ea73bdf98714678aa0ad8895b8d637b7d88e\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shod.png",
+        "source": "D:\\107\\skripsi_LaTahla\\app\\src\\main\\res\\drawable\\shod.png"
+    },
+    {
+        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dal.png",
+        "source": "D:\\107\\skripsi_LaTahla\\app\\src\\main\\res\\drawable\\dal.png"
+    },
+    {
+        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\ACER\\.android\\build-cache\\9636ea73bdf98714678aa0ad8895b8d637b7d88e\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ta.png",
+        "source": "D:\\107\\skripsi_LaTahla\\app\\src\\main\\res\\drawable\\ta.png"
+    },
+    {
+        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lam.png",
+        "source": "D:\\107\\skripsi_LaTahla\\app\\src\\main\\res\\drawable\\lam.png"
+    },
+    {
+        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\ACER\\.android\\build-cache\\9636ea73bdf98714678aa0ad8895b8d637b7d88e\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gharib_button.png",
+        "source": "D:\\107\\skripsi_LaTahla\\app\\src\\main\\res\\drawable\\gharib_button.png"
+    },
+    {
+        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\ACER\\.android\\build-cache\\9636ea73bdf98714678aa0ad8895b8d637b7d88e\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logomini.png",
+        "source": "D:\\107\\skripsi_LaTahla\\app\\src\\main\\res\\drawable\\logomini.png"
+    },
+    {
+        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fa.png",
+        "source": "D:\\107\\skripsi_LaTahla\\app\\src\\main\\res\\drawable\\fa.png"
+    },
+    {
+        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qof.png",
+        "source": "D:\\107\\skripsi_LaTahla\\app\\src\\main\\res\\drawable\\qof.png"
+    },
+    {
+        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\ACER\\.android\\build-cache\\9636ea73bdf98714678aa0ad8895b8d637b7d88e\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\ACER\\.android\\build-cache\\9636ea73bdf98714678aa0ad8895b8d637b7d88e\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\ACER\\.android\\build-cache\\9636ea73bdf98714678aa0ad8895b8d637b7d88e\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wawu.png",
+        "source": "D:\\107\\skripsi_LaTahla\\app\\src\\main\\res\\drawable\\wawu.png"
+    },
+    {
+        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\syin.png",
+        "source": "D:\\107\\skripsi_LaTahla\\app\\src\\main\\res\\drawable\\syin.png"
     }
 ]

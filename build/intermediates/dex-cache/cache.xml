@@ -7,7 +7,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="20ea84cc8980c96de2860616a8c418b116e33a97">
+        sha1="003eba7c4a8ce8e6556c3d140aa1e9bb1aa65714">
         <dex dex="D:\107\skripsi_LaTahla\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_f971debbf8d34d8b04e6e727c70a828e0ffc1336\classes.dex" />
     </item>
     <item
@@ -90,6 +90,15 @@
         revision="25.0.0"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
         <dex dex="D:\107\skripsi_LaTahla\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_37ab7420d56800988cbb544a4e3972c840571ebf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ACER\.android\build-cache\b5e913f7eaae49e8408193176819eb7db54d71a9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="D:\107\skripsi_LaTahla\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d195ab012a3af7fb1e10d6c11def5fdaab9a3bcb\classes.dex" />
     </item>
     <item
         is-multidex="true"

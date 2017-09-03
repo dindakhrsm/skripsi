@@ -8,6 +8,7 @@
     <string name="toolbar_title_home">La Tahla App</string>
     <string name="toolbar_title_explore">Explore</string>
     <string name="other_activity">Other Activity</string>
+    <string name="makhraj">Makharijul Huruf</string>
 
     <!-- Navigation Drawer -->
     <string name="nav_drawer_item_home">Home</string>
