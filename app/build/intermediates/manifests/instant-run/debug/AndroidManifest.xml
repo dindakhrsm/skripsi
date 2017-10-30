@@ -44,6 +44,15 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="dinda.skripsi.latahla.MainActivity" />
         </activity>
+        <activity
+            android:name="dinda.skripsi.latahla.TopicMakhrajActivity"
+            android:label="@string/topikmakhraj"
+            android:parentActivityName="dinda.skripsi.latahla.ListMakhrajActivity"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="dinda.skripsi.latahla.ListMakhrajActivity" />
+        </activity>
 
         <provider
             android:name="com.android.tools.fd.runtime.InstantRunContentProvider"

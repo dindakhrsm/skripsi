@@ -9,6 +9,8 @@
     <string name="toolbar_title_explore">Explore</string>
     <string name="other_activity">Other Activity</string>
     <string name="makhraj">Makharijul Huruf</string>
+    <string name="topikmakhraj">Topik Makhraj</string>
+
 
     <!-- Navigation Drawer -->
     <string name="nav_drawer_item_home">Home</string>

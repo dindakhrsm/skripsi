@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\107\skripsi_LaTahla\app\src\main\AndroidManifest.xml:2:1-44:12
+ADDED from D:\107\skripsi_LaTahla\app\src\main\AndroidManifest.xml:2:1-54:12
 	package
 		ADDED from D:\107\skripsi_LaTahla\app\src\main\AndroidManifest.xml:3:5-36
 		INJECTED from D:\107\skripsi_LaTahla\app\src\main\AndroidManifest.xml
@@ -14,7 +14,7 @@ ADDED from D:\107\skripsi_LaTahla\app\src\main\AndroidManifest.xml:2:1-44:12
 		INJECTED from D:\107\skripsi_LaTahla\app\src\main\AndroidManifest.xml
 		INJECTED from D:\107\skripsi_LaTahla\app\src\main\AndroidManifest.xml
 application
-ADDED from D:\107\skripsi_LaTahla\app\src\main\AndroidManifest.xml:5:5-42:19
+ADDED from D:\107\skripsi_LaTahla\app\src\main\AndroidManifest.xml:5:5-52:19
 MERGED from [de.hdodenhof:circleimageview:1.2.2] C:\Users\ACER\.android\build-cache\b5232967697d585e1d7631b551ef5a11464cdf8b\output\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:design:23.4.0] C:\Users\ACER\.android\build-cache\7794d74eaa5f7c20ab670b3031757827530d875c\output\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\ACER\.android\build-cache\9636ea73bdf98714678aa0ad8895b8d637b7d88e\output\AndroidManifest.xml:25:5-20
@@ -78,6 +78,16 @@ ADDED from D:\107\skripsi_LaTahla\app\src\main\AndroidManifest.xml:37:13-39:69
 		ADDED from D:\107\skripsi_LaTahla\app\src\main\AndroidManifest.xml:39:17-67
 	android:name
 		ADDED from D:\107\skripsi_LaTahla\app\src\main\AndroidManifest.xml:38:17-63
+activity#dinda.skripsi.latahla.TopicMakhrajActivity
+ADDED from D:\107\skripsi_LaTahla\app\src\main\AndroidManifest.xml:42:9-49:20
+	android:screenOrientation
+		ADDED from D:\107\skripsi_LaTahla\app\src\main\AndroidManifest.xml:43:13-49
+	android:label
+		ADDED from D:\107\skripsi_LaTahla\app\src\main\AndroidManifest.xml:44:13-49
+	android:parentActivityName
+		ADDED from D:\107\skripsi_LaTahla\app\src\main\AndroidManifest.xml:45:13-83
+	android:name
+		ADDED from D:\107\skripsi_LaTahla\app\src\main\AndroidManifest.xml:42:19-76
 uses-sdk
 INJECTED from D:\107\skripsi_LaTahla\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [de.hdodenhof:circleimageview:1.2.2] C:\Users\ACER\.android\build-cache\b5232967697d585e1d7631b551ef5a11464cdf8b\output\AndroidManifest.xml:5:5-7:41

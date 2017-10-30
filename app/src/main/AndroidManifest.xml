@@ -39,6 +39,16 @@
                 android:value="dinda.skripsi.latahla.MainActivity"/>
         </activity>
 
+        <activity android:name="dinda.skripsi.latahla.TopicMakhrajActivity"
+            android:screenOrientation="portrait"
+            android:label="@string/topikmakhraj"
+            android:parentActivityName="dinda.skripsi.latahla.ListMakhrajActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="dinda.skripsi.latahla.ListMakhrajActivity"/>
+        </activity>
+
+
     </application>
 
 </manifest>

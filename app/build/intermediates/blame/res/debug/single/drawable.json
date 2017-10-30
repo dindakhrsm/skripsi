@@ -128,12 +128,12 @@
         "source": "D:\\107\\skripsi_LaTahla\\app\\src\\main\\res\\drawable\\makhraj_button.png"
     },
     {
-        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splashv2.png",
-        "source": "D:\\107\\skripsi_LaTahla\\app\\src\\main\\res\\drawable\\splashv2.png"
-    },
-    {
         "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
         "source": "C:\\Users\\ACER\\.android\\build-cache\\9636ea73bdf98714678aa0ad8895b8d637b7d88e\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splashv2.png",
+        "source": "D:\\107\\skripsi_LaTahla\\app\\src\\main\\res\\drawable\\splashv2.png"
     },
     {
         "merged": "D:\\107\\skripsi_LaTahla\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ain.png",

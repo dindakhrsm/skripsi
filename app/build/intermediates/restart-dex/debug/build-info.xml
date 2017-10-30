@@ -6,7 +6,7 @@
     density="xxhdpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1504342712870"
+    timestamp="1509332890798"
     token="-4110639489409324997"
     verifier="FULL_BUILD_REQUESTED" >
 
@@ -23,6 +23,9 @@
         name="verifier"
         duration="0" />
 
+    <artifact
+        location="D:\107\skripsi_LaTahla\app\build\outputs\apk\app-debug.apk"
+        type="SPLIT_MAIN" />
     <artifact
         location="D:\107\skripsi_LaTahla\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
         type="SPLIT" />
@@ -56,14 +59,14 @@
     <artifact
         location="D:\107\skripsi_LaTahla\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
         type="SPLIT" />
-    <artifact
-        location="D:\107\skripsi_LaTahla\app\build\outputs\apk\app-debug.apk"
-        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1504342712870"
+        timestamp="1509332890798"
         verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="D:\107\skripsi_LaTahla\app\build\outputs\apk\app-debug.apk"
+            type="SPLIT_MAIN" />
         <artifact
             location="D:\107\skripsi_LaTahla\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
             type="SPLIT" />
@@ -97,9 +100,6 @@
         <artifact
             location="D:\107\skripsi_LaTahla\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
-        <artifact
-            location="D:\107\skripsi_LaTahla\app\build\outputs\apk\app-debug.apk"
-            type="SPLIT_MAIN" />
     </build>
 
 </instant-run>
